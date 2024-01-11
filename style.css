@@ -1,0 +1,17 @@
+.title {
+    color: blue;
+}
+
+ul {
+    text-align: center;
+    color: grey;
+}
+
+ol {
+    text-align: right;
+    background-color: brown;
+}
+
+#main {
+    color: green;
+}
