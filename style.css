@@ -15,3 +15,17 @@ ol {
 #main {
     color: green;
 }
+
+.body{
+    padding: 20px;
+    background: blue;
+}
+
+#indextitle{
+    background-color: white;
+    text-align: center;
+}
+
+.link {
+    background-color: white;
+}
